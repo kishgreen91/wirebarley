@@ -1,0 +1,9 @@
+@charset "EUC-KR";
+.wrap{
+	border: solid 1px;
+	width: 30%;	
+}
+
+.bottom{
+    padding-left: 10%;
+}
